@@ -64,7 +64,6 @@ flowchart LR
 | Как устроен предлагаемый метод | [Методика](docs/methodology.md) |
 | Как проверим результат | [План оценки](docs/evaluation.md) |
 | Что делать дальше | [План работы](docs/roadmap.md) |
-| Как рассказать о проекте научнику | [Памятка для встречи](docs/supervisor-brief.md) |
 
 [Источники](docs/sources.md) · [Условия использования данных](docs/data-policy.md) · [Описание примера](data/DATA.md)
 
